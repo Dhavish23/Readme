@@ -30,3 +30,9 @@ Date: Jun 17, 2023
 Description: In this Unity Tutorial we'll maka a timer.And we'll add the timer to the game.This Unity Tutorial for Beginners.
 URL: [https://www.youtube.com/watch?v=POq1i8FyRyQ]
 Rehope GamesMake a TIMER & COUNTDOWN in 5 Mins | Unity Tutorial for Beginners
+
+
+Date: Jun 17, 2023
+Description: In this beginner-oriented Unity 2023 tutorial, I will show you how to make a quick GAME OVER screen using Unity and C#.
+URL: [https://www.youtube.com/watch?v=M-MCVmlg9uY&t=331s]
+GarrettDeveloper Unity GAME OVER Screen 2023 Tutorial | Beginner Friendly
